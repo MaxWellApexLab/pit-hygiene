@@ -1,6 +1,7 @@
 # The PIT Hygiene Pledge
 
 [![PIT Hygiene](https://img.shields.io/badge/PIT%20Hygiene-pledged-2ea44f)](https://github.com/MaxWellApexLab/pit-hygiene)
+[![pledgers](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMaxWellApexLab%2Fpit-hygiene%2Fmain%2Fbadge-data%2Fpledgers.json)](https://github.com/MaxWellApexLab/pit-hygiene/blob/main/PLEDGERS.md)
 
 **Five commitments for pipelines that feed models from staggered-arrival data.**
 
