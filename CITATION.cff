@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "To reference The PIT Hygiene Pledge, cite as below."
+title: "The PIT Hygiene Pledge"
+type: dataset
+authors:
+  - name: "Max Well Apex LLC"
+    city: "Buffalo"
+    country: "US"
+repository-code: "https://github.com/MaxWellApexLab/pit-hygiene"
+license: CC-BY-4.0
